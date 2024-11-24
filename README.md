@@ -1,13 +1,5 @@
 # college_app
 
-This flutter project is developed by Divyansh arya as a Major Project of BCA 6th semester in Chandigarh University. 
-This project has been developed with the collaboration of group members-
-Divyansh Arya,
-Virendra Kumar (19bca1232),
-Nakul Kumar Gupta (19bca1239),
-
-UID of Divyansh Arya - 19BCA1233
-
 Flutter App screenshots-
 
 
